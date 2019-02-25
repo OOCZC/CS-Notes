@@ -785,6 +785,7 @@ GET 和 POST 的请求都能使用额外的参数，但是 GET 的参数是以�
 
 ```
 GET /test/demo_form.asp?name1=value1&name2=value2 HTTP/1.1
+Host: w3schools.com
 ```
 
 ```
